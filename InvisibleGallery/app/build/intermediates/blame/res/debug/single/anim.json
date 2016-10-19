@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    }
+]

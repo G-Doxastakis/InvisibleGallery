@@ -7,253 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba42d7c-1a58-4813-838f-7af3cfc586d2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/gr/ttss/InvisibleGallery/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/gr/ttss/InvisibleGallery/R.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/gr/ttss/samples/VuforiaSamples/test/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/vuforia/InvisibleGallery/VuforiaSamples/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/ActivitySplashScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/ActivitySplashScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/AObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/AObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/CObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/CObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/Cube$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/Cube.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$GestureListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$GestureListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/QObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/QObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/RObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/FrameMarkers/RObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationControl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession$InitVuforiaTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession$LoadTrackerTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeShaders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/LineShaders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/LoadingDialogHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/MeshObject$BUFFER_TYPE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/MeshObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$ConfigChooser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$ContextFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleMath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/Teapot$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/Teapot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/Texture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/VideoBackgroundShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/ActivitySplashScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/ActivitySplashScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/AObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/AObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/CObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/CObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/Cube$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/Cube.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$GestureListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$GestureListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/QObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/QObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/RObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/FrameMarkers/RObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationControl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession$InitVuforiaTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession$LoadTrackerTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeShaders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/LineShaders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/LoadingDialogHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/MeshObject$BUFFER_TYPE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/MeshObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$ConfigChooser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$ContextFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleMath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/Teapot$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/Teapot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/Texture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/SampleApplication/utils/VideoBackgroundShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/vuforia/InvisibleGallery/VuforiaSamples/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/4mN41FbjxlleS6QuPHwi7ti3hio=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/4mN41FbjxlleS6QuPHwi7ti3hio=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_506887bd176d9ead4ce90760eaafe5e0c1647445.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/instant-run_276fc2628dbb8b5311ffe41f71dcbd4cf96ff471.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/main_19eae7a3c7eb5fdeed1fd1a80195061689efa95f.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/ActivitySplashScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/ActivitySplashScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/AObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/AObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/CObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/CObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/Cube$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/Cube.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$GestureListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers$GestureListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/QObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/QObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/RObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/FrameMarkers/RObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationControl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession$InitVuforiaTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession$LoadTrackerTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeShaders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/LineShaders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/LoadingDialogHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/MeshObject$BUFFER_TYPE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/MeshObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$ConfigChooser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$ContextFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleMath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/Teapot$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/Teapot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/Texture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/SampleApplication/utils/VideoBackgroundShader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/InvisibleGallery/VuforiaSamples/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/outputs/apk/VuforiaSamples-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/FrameMarkers/AObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/FrameMarkers/CObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/FrameMarkers/QObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/FrameMarkers/RObject.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/ActivitySplashScreen.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SplashScreen.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/FrameMarkers/Cube.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationControl.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationControl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationException.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/SampleApplicationSession.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationSession.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeObject.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/CubeObject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/CubeShaders.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/CubeShaders.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/LineShaders.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/LineShaders.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/LoadingDialogHandler.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/LoadingDialogHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/MeshObject.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/MeshObject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleMath.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleMath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/SampleUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/Teapot.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/Teapot.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/Texture.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/Texture.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/SampleApplication/utils/VideoBackgroundShader.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/VideoBackgroundShader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ldpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ldpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.crc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="InvisibleGallery.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2331,6 +2085,14 @@
       <option name="presentableId" value="Default" />
       <updated>1476893452868</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project structure">
+      <created>1476972090229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476972090229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2372,6 +2134,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_layer.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
         "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_with_scanline.xml",
         "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\camera_overlay_with_scanline.xml"
     },
@@ -8,84 +12,20 @@
         "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
     },
     {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_reticle.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\camera_overlay_reticle.xml"
-    },
-    {
         "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activities_list_text_view.xml",
         "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\activities_list_text_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_radio_button.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_screen.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\about_screen.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activities_list_text_view.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\activities_list_text_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activities_list.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\activities_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_udt.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\camera_overlay_udt.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_textreco.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\camera_overlay_textreco.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\card.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\splash_screen.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\camera_overlay.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_layer.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activities_list.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\activities_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_layer.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_divider.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_screen.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\about_screen.xml"
     },
     {
         "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group.xml",
         "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
     },
     {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_with_scanline.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\camera_overlay_with_scanline.xml"
-    },
-    {
         "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card.xml",
         "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_screen.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\about_screen.xml"
     },
     {
         "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay.xml",
@@ -96,19 +36,23 @@
         "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
     },
     {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_udt.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\camera_overlay_udt.xml"
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_udt.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\camera_overlay_udt.xml"
     },
     {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_textreco.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\camera_overlay_textreco.xml"
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_textreco.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\camera_overlay_textreco.xml"
+    },
+    {
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\splash_screen.xml"
     },
     {
         "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_reticle.xml",
         "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\camera_overlay_reticle.xml"
     },
     {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\VuforiaSamples\\app\\src\\main\\res\\layout\\splash_screen.xml"
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activities_list.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\activities_list.xml"
     }
 ]

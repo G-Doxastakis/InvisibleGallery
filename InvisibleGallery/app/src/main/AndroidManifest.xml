@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vuforia.InvisibleGallery.VuforiaSamples"
-    android:versionCode="600"
-    android:versionName="6.0" >
+    package="gr.ttss.InvisibleGallery" >
 
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="22" />
@@ -29,7 +27,7 @@
         >
 
          <activity
-            android:name="com.vuforia.InvisibleGallery.ActivitySplashScreen"
+            android:name="gr.ttss.InvisibleGallery.SplashScreen"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
             android:screenOrientation="portrait"
             android:noHistory="true"
@@ -44,14 +42,12 @@
 
         
         <activity
-            android:name="com.vuforia.InvisibleGallery.FrameMarkers.FrameMarkers"
+            android:name="gr.ttss.InvisibleGallery.FrameMarkers.FrameMarkers"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
         	android:theme="@style/SampleAppsTheme"
  	        android:launchMode="singleTask"
             >
         </activity>
-        
-
          
     </application>
 

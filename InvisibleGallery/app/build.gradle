@@ -14,7 +14,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.vuforia.samples.VuforiaSamples"
+        applicationId "gr.ttss.InvisibleGallery"
         minSdkVersion 8
         targetSdkVersion 22
         versionCode 600

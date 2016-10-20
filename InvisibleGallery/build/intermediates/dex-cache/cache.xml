@@ -3,12 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\VuforiaSamples\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="5d9a79cc11e48254d722a561d4429b6c1c99c181">
-        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\VuforiaSamples\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_506887bd176d9ead4ce90760eaafe5e0c1647445.jar" />
+        sha1="f91659262d07cf59386fd942bd28414a2f3d1a58">
+        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_49aa520a74d60c40d5cbe3f77288ab81b1412675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8bf37cb4560eac634cdc01815607733532d59f9b">
+        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\pre-dexed\debug\instant-run_bec83e1cb0e13e438a46945ea499e97030f57ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Android\vuforia-sdk-android-6-0-117\build\java\vuforia\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
+        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\pre-dexed\debug\Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" />
     </item>
     <item
         is-multidex="false"
@@ -18,42 +36,6 @@
         revision="22.0.1"
         sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
         <dex dex="C:\Development\Android\vuforia-sdk-android-6-0-117\samples\VuforiaSamples-6-0-112\app\build\intermediates\pre-dexed\debug\Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\VuforiaSamples\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="eb3ef3d14c6eb4ba26a693c414c90a43982bd9d1">
-        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\VuforiaSamples\app\build\intermediates\pre-dexed\debug\instant-run_276fc2628dbb8b5311ffe41f71dcbd4cf96ff471.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Development\Android\vuforia-sdk-android-6-0-117\samples\VuforiaSamples-6-0-112\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="17119b74038ff01edf443af0d8c5ee0a81a66d27">
-        <dex dex="C:\Development\Android\vuforia-sdk-android-6-0-117\samples\VuforiaSamples-6-0-112\app\build\intermediates\pre-dexed\debug\instant-run_b816e305baf46c9ec03aff79272b51e57a7d888e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Development\Android\vuforia-sdk-android-6-0-117\build\java\vuforia\Vuforia.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
-        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\VuforiaSamples\app\build\intermediates\pre-dexed\debug\Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Development\Android\vuforia-sdk-android-6-0-117\samples\VuforiaSamples-6-0-112\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="cfda876acfc911b8881a3f72f693079343ba91c0">
-        <dex dex="C:\Development\Android\vuforia-sdk-android-6-0-117\samples\VuforiaSamples-6-0-112\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ea2314df60ae97b590fcdc63d068741b372cea4e.jar" />
     </item>
 
 </items>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vuforia.samples.VuforiaSamples.test">
+    package="gr.ttss.InvisibleGallery.test">
 
     <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="22" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.vuforia.samples.VuforiaSamples"
+                     android:targetPackage="gr.ttss.InvisibleGallery"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.vuforia.samples.VuforiaSamples"/>
+                     android:label="Tests for gr.ttss.InvisibleGallery"/>
 </manifest>

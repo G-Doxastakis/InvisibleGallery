@@ -36,12 +36,12 @@
         "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\drawable\\reticle.png"
     },
     {
-        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_03.png",
-        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\drawable\\icon_03.png"
-    },
-    {
         "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_bg.xml",
         "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_03.png",
+        "source": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\drawable\\icon_03.png"
     },
     {
         "merged": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg70.png",

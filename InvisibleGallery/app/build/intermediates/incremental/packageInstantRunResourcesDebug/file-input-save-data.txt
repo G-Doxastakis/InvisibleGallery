@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 20 14:43:31 EEST 2016
+#Fri Nov 04 16:22:27 EET 2016
 76.base=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\assets\\debug
 5.base=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\assets\\debug
 86.base=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\assets\\debug
@@ -181,7 +181,7 @@ count=91
 14.base=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\assets\\debug
 47.file=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bg70.png
 66.set=ASSET
-57.file=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\reticle.png
+57.file=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 55.set=ANDROID_RESOURCE
 23.file=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\assets\\debug\\MultiTargets\\TextureWireframe.png
 33.file=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\assets\\debug\\ImageTargets\\IT_about.html
@@ -257,7 +257,7 @@ count=91
 48.file=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\assets\\debug\\TextReco\\Vuforia-English-word.vwl
 76.set=ASSET
 30.file=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activities_list_text_view.xml
-58.file=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+58.file=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\reticle.png
 14.set=ASSET
 65.set=ASSET
 24.file=C\:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\assets\\debug\\FrameMarkers\\letter_C.png

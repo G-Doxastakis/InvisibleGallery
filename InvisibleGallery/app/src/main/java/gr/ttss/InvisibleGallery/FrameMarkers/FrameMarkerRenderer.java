@@ -21,7 +21,6 @@ import android.util.Log;
 
 import com.vuforia.Marker;
 import com.vuforia.MarkerResult;
-import com.vuforia.MarkerTracker;
 import com.vuforia.Renderer;
 import com.vuforia.State;
 import com.vuforia.Tool;
@@ -51,8 +50,8 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
     private int texSampler2DHandle = 0;
     
     // Constants:
-    static private float kLetterScale = 25.0f;
-    static private float kLetterTranslate = 25.0f;
+    static private float modelScale = 20.0f;
+    static private float modelTranslate = 0.0f;
 
     private Cube cube = new Cube();
     
@@ -167,17 +166,17 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
                 trackableResult.getPose()).getData();
             
             // Check the type of the trackable:
-            assert (trackableResult.getType() == MarkerTracker.getClassType());
+            //assert (trackableResult.getType() == MarkerTracker.getClassType());
             MarkerResult markerResult = (MarkerResult) (trackableResult);
             Marker marker = (Marker) markerResult.getTrackable();
             
 
             float[] modelViewProjection = new float[16];
             
-            Matrix.translateM(modelViewMatrix, 0, -kLetterTranslate,
-                -kLetterTranslate, 0.f);
-            Matrix.scaleM(modelViewMatrix, 0, kLetterScale, kLetterScale,
-                kLetterScale);
+            Matrix.translateM(modelViewMatrix, 0, -modelTranslate,
+                -modelTranslate, 0.f);
+            Matrix.scaleM(modelViewMatrix, 0, modelScale, modelScale,
+                    modelScale);
             Matrix.multiplyMM(modelViewProjection, 0, vuforiaAppSession
                 .getProjectionMatrix().getData(), 0, modelViewMatrix, 0);
 

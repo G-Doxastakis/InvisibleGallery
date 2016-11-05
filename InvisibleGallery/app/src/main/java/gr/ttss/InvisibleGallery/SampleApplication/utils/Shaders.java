@@ -9,10 +9,10 @@ countries.
 
 package gr.ttss.InvisibleGallery.SampleApplication.utils;
 
-public class CubeShaders
+public class Shaders
 {
     
-    public static final String CUBE_MESH_VERTEX_SHADER = " \n" + "\n"
+    public static final String CUSTOM_MESH_VERTEX_SHADER = " \n" + "\n"
         + "attribute vec4 vertexPosition; \n"
         + "attribute vec2 vertexTexCoord; \n" + "\n"
         + "varying vec2 texCoord; \n" + "\n"
@@ -22,12 +22,12 @@ public class CubeShaders
         + "   texCoord = vertexTexCoord; \n"
         + "} \n";
     
-    public static final String CUBE_MESH_FRAGMENT_SHADER = " \n" + "\n"
+    public static final String CUSTOM_MESH_FRAGMENT_SHADER = " \n" + "\n"
         + "precision mediump float; \n" + " \n"
         + "varying vec2 texCoord; \n"
         + "uniform sampler2D texSampler2D; \n" + " \n"
         + "void main() \n"
-        + "{ \n" + "   gl_FragColor = texture2D(texSampler2D, texCoord); \n"
+        + "{ \n" + "   gl_FragColor =  vec4(0.137, 0.368, 0.737, 0.6); \n" //texture2D(texSampler2D, texCoord); \n"
         + "} \n";
     
 }

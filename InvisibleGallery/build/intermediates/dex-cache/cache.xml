@@ -3,21 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="C:\Development\Android\vuforia-sdk-android-6-0-117\build\java\vuforia\Vuforia.jar"
+        jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="ed91c9fa2e163a1f3ee2d164abebd015caff3ea5">
-        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_49aa520a74d60c40d5cbe3f77288ab81b1412675.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="bbe702c315b165b51f79120d62f1e508ac051d7f">
-        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\pre-dexed\debug\instant-run_bec83e1cb0e13e438a46945ea499e97030f57ab4.jar" />
+        sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
+        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\pre-dexed\debug\Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" />
     </item>
     <item
         is-multidex="false"
@@ -27,15 +18,6 @@
         revision="22.0.1"
         sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
         <dex dex="C:\Development\Android\vuforia-sdk-android-6-0-117\samples\VuforiaSamples-6-0-112\app\build\intermediates\pre-dexed\debug\Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Development\Android\vuforia-sdk-android-6-0-117\build\java\vuforia\Vuforia.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
-        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\pre-dexed\debug\Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" />
     </item>
 
 </items>

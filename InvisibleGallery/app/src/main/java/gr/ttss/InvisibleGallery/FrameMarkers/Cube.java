@@ -60,6 +60,57 @@ public class Cube extends MeshObject {
             -0.5, 0.5, 0.5,
     };
 
+    float objectColor[] = {
+            // f  1//2  7//2  5//2
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  1//2  3//2  7//2
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  1//6  4//6  3//6
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  1//6  2//6  4//6
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  3//3  8//3  7//3
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  3//3  4//3  8//3
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  5//5  7//5  8//5
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  5//5  8//5  6//5
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  1//4  5//4  6//4
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  1//4  6//4  2//4
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  2//1  6//1  8//1
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            // f  2//1  8//1  4//1
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+            1.0f, 1.0f, 1.0f,
+    };
+
     private static final double objectNormals[] ={
             // f  1//2  7//2  5//2
             0, 0, -1,
@@ -113,12 +164,14 @@ public class Cube extends MeshObject {
 
     Buffer mVertBuff;
     Buffer mNormBuff;
+    Buffer mColBuff;
 
 
     public Cube()
     {
         mVertBuff = fillBuffer(objectVertices);
         mNormBuff = fillBuffer(objectNormals);
+        mColBuff = fillBuffer(objectColor);
     }
 
 
@@ -133,6 +186,7 @@ public class Cube extends MeshObject {
                 break;
             case BUFFER_TYPE_NORMALS:
                 result = mNormBuff;
+                break;
             default:
                 break;
         }

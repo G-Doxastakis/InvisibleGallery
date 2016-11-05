@@ -299,41 +299,9 @@ public class FrameMarkers extends Activity implements SampleApplicationControl
             .getTracker(MarkerTracker.getClassType());
         if (markerTracker == null)
             return false;
-        
-        dataSet = new Marker[4];
-        
-        dataSet[0] = markerTracker.createFrameMarker(0, "MarkerQ", new Vec2F(
-            50, 50));
-        if (dataSet[0] == null)
-        {
-            Log.e(LOGTAG, "Failed to create frame marker Q.");
-            return false;
-        }
-        
-        dataSet[1] = markerTracker.createFrameMarker(1, "MarkerC", new Vec2F(
-            50, 50));
-        if (dataSet[1] == null)
-        {
-            Log.e(LOGTAG, "Failed to create frame marker C.");
-            return false;
-        }
-        
-        dataSet[2] = markerTracker.createFrameMarker(2, "MarkerA", new Vec2F(
-            50, 50));
-        if (dataSet[2] == null)
-        {
-            Log.e(LOGTAG, "Failed to create frame marker A.");
-            return false;
-        }
-        
-        dataSet[3] = markerTracker.createFrameMarker(3, "MarkerR", new Vec2F(
-            50, 50));
-        if (dataSet[3] == null)
-        {
-            Log.e(LOGTAG, "Failed to create frame marker R.");
-            return false;
-        }
-        
+
+        markerTracker.createFrameMarker(0, "Marker", new Vec2F(50, 50));
+
         Log.i(LOGTAG, "Successfully initialized MarkerTracker.");
         
         return true;

@@ -7,11 +7,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba42d7c-1a58-4813-838f-7af3cfc586d2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/CubeShaders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_49aa520a74d60c40d5cbe3f77288ab81b1412675.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/instant-run_bec83e1cb0e13e438a46945ea499e97030f57ab4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/main_949c383383ea22bcb1685fd2e58d60653cc77a7b.jar" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/CubeShaders.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/Shaders.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/FrameMarkers/BiancoStatuario_256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/AObject.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/Cube$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/Cube.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationControl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationSession$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationSession$InitVuforiaTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationSession$LoadTrackerTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationSession.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/CubeObject$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/CubeObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/LineShaders.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/LoadingDialogHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/MeshObject$BUFFER_TYPE.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/MeshObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$ConfigChooser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView$ContextFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleMath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/Teapot$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/Teapot.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/Texture.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/SampleApplication/utils/VideoBackgroundShader.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Object.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationControl.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/VuforiaApplicationControl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationException.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/VuforiaApplicationException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationSession.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/VuforiaApplicationSession.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/CubeObject.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/CubeObject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/LineShaders.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/LineShaders.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/LoadingDialogHandler.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/LoadingDialogHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/MeshObject.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/MeshObject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleApplication3DModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/VuforiaApplication3DModel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleApplicationGLView.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/VuforiaApplicationGLView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleMath.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/VuforiaMath.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/SampleUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/VuforiaUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/Shaders.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/CubeShaders.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/Teapot.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/Teapot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/Texture.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/Texture.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/VideoBackgroundShader.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/VideoBackgroundShader.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
@@ -20,26 +59,19 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/Cube$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/Cube$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/Cube.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/Cube.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers$1$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers$GestureListener$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers$GestureListener$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers$GestureListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers$GestureListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/VLgGRWj_QNBlfA+bGweyuGYWGAE=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/VLgGRWj_QNBlfA+bGweyuGYWGAE=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/InvisibleGallery-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/InvisibleGallery-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.java" afterPath="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="InvisibleGallery.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,11 +104,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FrameMarkers.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FrameMarkers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4471">
-              <caret line="302" column="47" selection-start-line="302" selection-start-column="47" selection-end-line="302" selection-end-column="47" />
+            <state relative-caret-position="432">
+              <caret line="143" column="77" selection-start-line="143" selection-start-column="77" selection-end-line="143" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -86,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="398">
-              <caret line="168" column="43" selection-start-line="168" selection-start-column="43" selection-end-line="168" selection-end-column="43" />
+              <caret line="201" column="61" selection-start-line="201" selection-start-column="61" selection-end-line="201" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,21 +126,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shaders.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/Shaders.java">
+      <file leaf-file-name="CubeShaders.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/CubeShaders.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cube.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java">
+      <file leaf-file-name="AObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/AObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="188" column="22" selection-start-line="188" selection-start-column="22" selection-end-line="188" selection-end-column="22" />
+            <state relative-caret-position="-6657">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MeshObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/MeshObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="52" column="61" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -1738,11 +1792,15 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/InvisibleGallery/FrameMarkers/FrameMarkers.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/CubeShaders.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/Shaders.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/CubeShaders.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Object.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/MeshObject.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/AObject.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/CubeShaders.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.java" />
       </list>
     </option>
   </component>
@@ -1779,14 +1837,96 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="InvisibleGallery" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InvisibleGallery" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InvisibleGallery" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InvisibleGallery" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrameMarkers" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InvisibleGallery" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InvisibleGallery" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InvisibleGallery" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InvisibleGallery" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrameMarkers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1801,6 +1941,14 @@
     <property name="device.picker.selection" value="42035a27d87d7200" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\assets\FrameMarkers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\java\gr\ttss\InvisibleGallery\FrameMarkers" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -2121,24 +2269,31 @@
       <option name="project" value="LOCAL" />
       <updated>1478269488540</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Color">
+      <created>1478387662329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1478387662329</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2148,10 +2303,10 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2175,47 +2330,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project structure" />
     <MESSAGE value="Center Fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Center Fix" />
+    <MESSAGE value="Added Color" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Color" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4471">
-          <caret line="302" column="47" selection-start-line="302" selection-start-column="47" selection-end-line="302" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -2226,7 +2348,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
@@ -2252,7 +2374,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
@@ -2275,10 +2397,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationSession.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/VuforiaApplicationSession.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2300,7 +2423,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
@@ -2323,10 +2446,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationSession.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/VuforiaApplicationSession.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2348,7 +2472,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
@@ -2381,7 +2505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
@@ -2430,25 +2554,145 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/SampleApplicationSession.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/VuforiaApplicationSession.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4471">
-          <caret line="302" column="47" selection-start-line="302" selection-start-column="47" selection-end-line="302" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Cube.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/VideoBackgroundShader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="188" column="22" selection-start-line="188" selection-start-column="22" selection-end-line="188" selection-end-column="22" />
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/Texture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/FrameMarkers/letter_Q.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/FrameMarkers/FM_about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ImageTargets/Buildings.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ImageTargets/Buildings.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ObjectRecognition/CubeWireframe.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/UserDefinedTargets/viewfinder_crop_marks_landscape.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/UserDefinedTargets/viewfinder_crop_marks_portrait.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/VuforiaApplicationGLView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2509">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/CubeObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/VirtualButtons/TextureTeapotYellow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/MultiTargets/TextureBowlAndSpoon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/MultiTargets/TextureWireframe.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/CylinderTargets/TextureWireframeNoBorder.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/VirtualButtons/TextureTeapotGreen.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/Teapot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9646">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/MeshObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="52" column="61" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/AObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6657">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/VuforiaApplication/utils/CubeShaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -2456,17 +2700,17 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkerRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
-          <caret line="168" column="43" selection-start-line="168" selection-start-column="43" selection-end-line="168" selection-end-column="43" />
+          <caret line="201" column="61" selection-start-line="201" selection-start-column="61" selection-end-line="201" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/SampleApplication/utils/Shaders.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/gr/ttss/InvisibleGallery/FrameMarkers/FrameMarkers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+        <state relative-caret-position="432">
+          <caret line="143" column="77" selection-start-line="143" selection-start-column="77" selection-end-line="143" selection-end-column="77" />
           <folding />
         </state>
       </provider>

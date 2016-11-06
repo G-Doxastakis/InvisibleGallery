@@ -34,27 +34,33 @@ import com.vuforia.Tracker;
 import com.vuforia.TrackerManager;
 import com.vuforia.Vec2F;
 import com.vuforia.Vuforia;
-import gr.ttss.InvisibleGallery.SampleApplication.SampleApplicationControl;
-import gr.ttss.InvisibleGallery.SampleApplication.SampleApplicationException;
-import gr.ttss.InvisibleGallery.SampleApplication.SampleApplicationSession;
-import gr.ttss.InvisibleGallery.SampleApplication.utils.LoadingDialogHandler;
-import gr.ttss.InvisibleGallery.SampleApplication.utils.SampleApplicationGLView;
+
+import java.util.Vector;
+
+import gr.ttss.InvisibleGallery.VuforiaApplication.VuforiaApplicationControl;
+import gr.ttss.InvisibleGallery.VuforiaApplication.VuforiaApplicationException;
+import gr.ttss.InvisibleGallery.VuforiaApplication.VuforiaApplicationSession;
+import gr.ttss.InvisibleGallery.VuforiaApplication.utils.LoadingDialogHandler;
+import gr.ttss.InvisibleGallery.VuforiaApplication.utils.Texture;
+import gr.ttss.InvisibleGallery.VuforiaApplication.utils.VuforiaApplicationGLView;
 
 
 // The main activity for the FrameMarkers sample. 
-public class FrameMarkers extends Activity implements SampleApplicationControl
+public class FrameMarkers extends Activity implements VuforiaApplicationControl
 {
     private static final String LOGTAG = "FrameMarkers";
     
-    SampleApplicationSession vuforiaAppSession;
+    VuforiaApplicationSession vuforiaAppSession;
     
     // Our OpenGL view:
-    private SampleApplicationGLView mGlView;
+    private VuforiaApplicationGLView mGlView;
     
     // Our renderer:
     private FrameMarkerRenderer mRenderer;
 
-    
+    // The textures we will use for rendering:
+    private Vector<Texture> mTextures;
+
     private RelativeLayout mUILayout;
     
     private Marker dataSet[];
@@ -78,7 +84,7 @@ public class FrameMarkers extends Activity implements SampleApplicationControl
         Log.d(LOGTAG, "onCreate");
         super.onCreate(savedInstanceState);
         
-        vuforiaAppSession = new SampleApplicationSession(this);
+        vuforiaAppSession = new VuforiaApplicationSession(this);
         
         startLoadingAnimation();
         
@@ -86,6 +92,10 @@ public class FrameMarkers extends Activity implements SampleApplicationControl
             .initAR(this, ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         
         mGestureDetector = new GestureDetector(this, new GestureListener());
+
+        // Load any sample specific textures:
+        mTextures = new Vector<Texture>();
+        loadTextures();
         
         mIsDroidDevice = android.os.Build.MODEL.toLowerCase().startsWith(
             "droid");
@@ -126,6 +136,13 @@ public class FrameMarkers extends Activity implements SampleApplicationControl
             return true;
         }
     }
+
+    // We want to load specific textures from the APK, which we will later use
+    // for rendering.
+    private void loadTextures()
+    {
+        mTextures.add(Texture.loadTextureFromApk("FrameMarkers/BiancoStatuario_256.png", getAssets()));
+    }
     
     
     // Called when the activity will start interacting with the user.
@@ -145,7 +162,7 @@ public class FrameMarkers extends Activity implements SampleApplicationControl
         try
         {
             vuforiaAppSession.resumeAR();
-        } catch (SampleApplicationException e)
+        } catch (VuforiaApplicationException e)
         {
             Log.e(LOGTAG, e.getString());
         }
@@ -186,7 +203,7 @@ public class FrameMarkers extends Activity implements SampleApplicationControl
         try
         {
             vuforiaAppSession.pauseAR();
-        } catch (SampleApplicationException e)
+        } catch (VuforiaApplicationException e)
         {
             Log.e(LOGTAG, e.getString());
         }
@@ -203,7 +220,7 @@ public class FrameMarkers extends Activity implements SampleApplicationControl
         try
         {
             vuforiaAppSession.stopAR();
-        } catch (SampleApplicationException e)
+        } catch (VuforiaApplicationException e)
         {
             Log.e(LOGTAG, e.getString());
         }
@@ -254,10 +271,11 @@ public class FrameMarkers extends Activity implements SampleApplicationControl
         int stencilSize = 0;
         boolean translucent = Vuforia.requiresAlpha();
         
-        mGlView = new SampleApplicationGLView(this);
+        mGlView = new VuforiaApplicationGLView(this);
         mGlView.init(translucent, depthSize, stencilSize);
         
         mRenderer = new FrameMarkerRenderer(this, vuforiaAppSession);
+        mRenderer.setTextures(mTextures);
         mGlView.setRenderer(mRenderer);
         
     }
@@ -364,7 +382,7 @@ public class FrameMarkers extends Activity implements SampleApplicationControl
     
     
     @Override
-    public void onInitARDone(SampleApplicationException exception)
+    public void onInitARDone(VuforiaApplicationException exception)
     {
         
         if (exception == null)
@@ -393,7 +411,7 @@ public class FrameMarkers extends Activity implements SampleApplicationControl
             try
             {
                 vuforiaAppSession.startAR(CameraDevice.CAMERA_DIRECTION.CAMERA_DIRECTION_DEFAULT);
-            } catch (SampleApplicationException e)
+            } catch (VuforiaApplicationException e)
             {
                 Log.e(LOGTAG, e.getString());
             }

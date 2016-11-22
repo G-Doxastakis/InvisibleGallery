@@ -275,7 +275,7 @@ public class FrameMarkers extends Activity implements VuforiaApplicationControl
         mGlView.init(translucent, depthSize, stencilSize);
         
         mRenderer = new FrameMarkerRenderer(this, vuforiaAppSession);
-        mRenderer.setTextures(mTextures);
+        mRenderer.setModelParam(mTextures,getAssets());
         mGlView.setRenderer(mRenderer);
         
     }

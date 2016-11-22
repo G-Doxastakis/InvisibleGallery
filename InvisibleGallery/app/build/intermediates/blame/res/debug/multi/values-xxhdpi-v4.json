@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+        "outputFile": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "file": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 47,
-                        "endOffset": 99
+                        "endOffset": 102
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 147
                 },
                 "from": {
-                    "file": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "file": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 104,
+                        "startOffset": 108,
                         "endColumn": 48,
-                        "endOffset": 148
+                        "endOffset": 152
                     }
                 }
             }

@@ -1,93 +1,93 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:2:1-54:12
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:6:5-74
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:6:5-74
 	android:targetSdkVersion
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:6:42-71
-		INJECTED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:6:42-71
+		INJECTED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:6:15-41
-		INJECTED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:6:15-41
+		INJECTED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml
 uses-feature#0x00020000
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:8:5-54
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:8:5-54
 	android:glEsVersion
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:8:19-51
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:8:19-51
 uses-feature#android.hardware.camera
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:10:5-60
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:10:5-60
 	android:name
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:10:19-57
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:10:19-57
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:12:5-65
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:12:5-65
 	android:name
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:12:22-62
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:12:22-62
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:14:5-66
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:14:5-66
 	android:name
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:14:22-64
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:14:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:16:5-79
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:16:22-76
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:16:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:18:5-79
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:18:22-77
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:18:22-77
 application
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:20:5-52:19
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:20:5-52:19
 	android:label
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:22:9-41
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:22:9-41
 	android:launchMode
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:24:9-40
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:24:9-40
 	android:allowBackup
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:25:9-35
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:25:9-35
 	android:icon
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:21:9-38
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:21:9-38
 	android:description
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:23:9-54
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:23:9-54
 	android:theme
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:26:9-47
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:26:9-47
 activity#gr.ttss.InvisibleGallery.SplashScreen
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:29:10-40:21
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:29:10-40:21
 	android:screenOrientation
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:32:13-49
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:32:13-49
 	android:noHistory
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:33:13-37
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:33:13-37
 	android:configChanges
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:31:13-93
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:31:13-93
 	android:name
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:30:13-65
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:30:13-65
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:35:13-39:29
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:38:27-74
 activity#gr.ttss.InvisibleGallery.FrameMarkers.FrameMarkers
-ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:44:9-50:20
+ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:44:9-50:20
 	android:launchMode
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:48:11-42
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:48:11-42
 	android:configChanges
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:46:13-93
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:46:13-93
 	android:theme
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:47:10-48
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:47:10-48
 	android:name
-		ADDED from C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:45:13-78
+		ADDED from C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\src\main\AndroidManifest.xml:45:13-78

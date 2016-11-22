@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "file": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 48,
-                        "endOffset": 100
+                        "endOffset": 103
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 149
                 },
                 "from": {
-                    "file": "C:\\Users\\TTSS\\Documents\\GitRepos\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "file": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 105,
+                        "startOffset": 109,
                         "endColumn": 49,
-                        "endOffset": 150
+                        "endOffset": 154
                     }
                 }
             }

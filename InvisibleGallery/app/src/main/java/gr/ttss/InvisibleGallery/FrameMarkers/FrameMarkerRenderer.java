@@ -15,6 +15,7 @@ import java.util.Vector;
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
 
+import android.content.res.AssetManager;
 import android.opengl.GLES20;
 import android.opengl.GLSurfaceView;
 import android.opengl.Matrix;
@@ -57,7 +58,7 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
     static private float modelScale = 25.0f;
     static private float modelTranslate = 25.0f;
 
-    private Object object = new Object();
+    private FileMeshObject Object;
     private AObject aObject = new AObject();
     
     
@@ -184,6 +185,7 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
             GLES20.glUseProgram(shaderProgramID);
 
             // Select which model to draw:
+            boolean indexed=false;
             Buffer vertices = null;
             int numVertices = 0;
             Buffer normals = null;
@@ -194,12 +196,13 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
             switch (marker.getMarkerId())
             {
                 case 0:
-                    vertices = aObject.getVertices();
-                    normals = aObject.getNormals();
-                    indices = aObject.getIndices();
-                    texCoords = aObject.getTexCoords();
-                    numVertices = aObject.getNumObjectVertex();
-                    numIndices = aObject.getNumObjectIndex();
+                    indexed = Object.indexed;
+                    vertices = Object.getVertices();
+                    normals = Object.getNormals();
+                    indices = Object.getIndices();
+                    texCoords = Object.getTexCoords();
+                    numVertices = Object.getNumObjectVertex();
+                    numIndices = Object.getNumObjectIndex();
                     break;
             }
 
@@ -212,8 +215,10 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
             GLES20.glBindTexture(GLES20.GL_TEXTURE_2D, thisTexture.mTextureID[0]);
             GLES20.glUniform1i(texSampler2DHandle, 0);
             GLES20.glUniformMatrix4fv(mvpMatrixHandle, 1, false, modelViewProjection, 0);
-            GLES20.glDrawElements(GLES20.GL_TRIANGLES, numIndices, GLES20.GL_UNSIGNED_SHORT, indices);
-            //GLES20.glDrawArrays(GLES20.GL_TRIANGLES,0,numVertices);
+            if(indexed) GLES20.glDrawElements(GLES20.GL_TRIANGLES, numIndices, GLES20.GL_UNSIGNED_SHORT, indices);
+            else GLES20.glDrawArrays(GLES20.GL_TRIANGLES,0,numVertices);
+
+
 
             GLES20.glDisableVertexAttribArray(vertexHandle);
             GLES20.glDisableVertexAttribArray(textureCoordHandle);
@@ -227,9 +232,10 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
 
     }
 
-    public void setTextures(Vector<Texture> textures)
+    public void setModelParam(Vector<Texture> textures,AssetManager assets)
     {
         mTextures = textures;
-
+        Object = new FileMeshObject("FrameMarkers/EggHolder/Vertices.txt",
+                "FrameMarkers/EggHolder/TexCoords.txt","FrameMarkers/EggHolder/Normals.txt",assets);
     }
 }

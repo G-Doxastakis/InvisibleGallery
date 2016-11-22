@@ -3,12 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="C:\Development\Android\vuforia-sdk-android-6-0-117\build\java\vuforia\Vuforia.jar"
-        jumboMode="false"
+        jar="C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
-        <dex dex="C:\Users\TTSS\Documents\GitRepos\InvisibleGallery\InvisibleGallery\app\build\intermediates\pre-dexed\debug\Vuforia_58c5a164b911b9c2c1a3bf6a921dc9e91a15cbae.jar" />
+        sha1="c39460855a43f817588da5e49ed69fbe6fd1c253">
+        <dex dex="C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_50888ced7ee9d8a6e85f7362f9022500a398d566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="93b6f1c5c933da46e72fad2b835fc3473f46b53a">
+        <dex dex="C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\build\intermediates\pre-dexed\debug\instant-run_37035e915cb262e00d646a1c36b9f8e8bc5c852b.jar" />
     </item>
     <item
         is-multidex="false"

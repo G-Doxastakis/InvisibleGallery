@@ -142,6 +142,8 @@ public class FrameMarkers extends Activity implements VuforiaApplicationControl
     private void loadTextures()
     {
         mTextures.add(Texture.loadTextureFromApk("FrameMarkers/BiancoStatuario_256.png", getAssets()));
+        mTextures.add(Texture.loadTextureFromApk("PlasterDirty0073_S.jpg", getAssets()));
+        mTextures.add(Texture.loadTextureFromApk("PlasterDirty0104_1_S.jpg", getAssets()));
     }
     
     
@@ -318,7 +320,9 @@ public class FrameMarkers extends Activity implements VuforiaApplicationControl
         if (markerTracker == null)
             return false;
 
-        markerTracker.createFrameMarker(0, "Marker", new Vec2F(50, 50));
+        markerTracker.createFrameMarker(0, "Artifact1", new Vec2F(50, 50));
+        markerTracker.createFrameMarker(1, "Artifact2", new Vec2F(50, 50));
+        markerTracker.createFrameMarker(2, "Artifact3", new Vec2F(50, 50));
 
         Log.i(LOGTAG, "Successfully initialized MarkerTracker.");
         

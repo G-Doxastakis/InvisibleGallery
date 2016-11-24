@@ -1,4 +1,4 @@
-#Tue Nov 22 20:15:29 EET 2016
+#Thu Nov 24 21:54:40 EET 2016
 base.0=C\:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

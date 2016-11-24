@@ -53,10 +53,6 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
     private int mvpMatrixHandle = 0;
     private int textureCoordHandle = 0;
     private int texSampler2DHandle = 0;
-    
-    // Constants:
-    static private float modelScale = 25.0f;
-    static private float modelTranslate = 25.0f;
 
     private FileMeshObject Object;
     private AObject aObject = new AObject();
@@ -171,20 +167,14 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
             Marker marker = (Marker) markerResult.getTrackable();
 
 
-            // Choose the texture based on the target name:
-            int textureIndex = 0;
-            textureIndex = marker.getMarkerId();
-            Texture thisTexture = mTextures.get(textureIndex);
-
-            float[] modelViewProjection = new float[16];
-            
-            Matrix.translateM(modelViewMatrix, 0, -modelTranslate, -modelTranslate, 0.f);
-            Matrix.scaleM(modelViewMatrix, 0, modelScale, modelScale, modelScale);
-            Matrix.multiplyMM(modelViewProjection, 0, vuforiaAppSession.getProjectionMatrix().getData(), 0, modelViewMatrix, 0);
-
-            GLES20.glUseProgram(shaderProgramID);
-
             // Select which model to draw:
+            // Constants:
+
+            //TODO: Add to model object
+            float modelScale = 25.0f;
+            float modelTranslate = 25.0f;
+            int textureIndex = marker.getMarkerId();
+
             boolean indexed=false;
             Buffer vertices = null;
             int numVertices = 0;
@@ -204,7 +194,33 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
                     numVertices = Object.getNumObjectVertex();
                     numIndices = Object.getNumObjectIndex();
                     break;
+                case 1:
+                    indexed = Object.indexed;
+                    vertices = Object.getVertices();
+                    normals = Object.getNormals();
+                    indices = Object.getIndices();
+                    texCoords = Object.getTexCoords();
+                    numVertices = Object.getNumObjectVertex();
+                    numIndices = Object.getNumObjectIndex();
+                    break;
+                case 2:
+                    indexed = Object.indexed;
+                    vertices = Object.getVertices();
+                    normals = Object.getNormals();
+                    indices = Object.getIndices();
+                    texCoords = Object.getTexCoords();
+                    numVertices = Object.getNumObjectVertex();
+                    numIndices = Object.getNumObjectIndex();
+                    break;
             }
+
+            Texture thisTexture = mTextures.get(textureIndex);
+            float[] modelViewProjection = new float[16];
+            Matrix.translateM(modelViewMatrix, 0, -modelTranslate, -modelTranslate, 0.f);
+            Matrix.scaleM(modelViewMatrix, 0, modelScale, modelScale, modelScale);
+            Matrix.multiplyMM(modelViewProjection, 0, vuforiaAppSession.getProjectionMatrix().getData(), 0, modelViewMatrix, 0);
+
+            GLES20.glUseProgram(shaderProgramID);
 
             GLES20.glVertexAttribPointer(vertexHandle,3, GLES20.GL_FLOAT, false, 0, vertices);
             GLES20.glVertexAttribPointer(textureCoordHandle, 2, GLES20.GL_FLOAT, false, 0, texCoords);

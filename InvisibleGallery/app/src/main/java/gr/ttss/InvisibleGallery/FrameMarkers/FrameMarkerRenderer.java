@@ -55,6 +55,9 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
     private int texSampler2DHandle = 0;
 
     private FileMeshObject Object;
+    private FileMeshObject Model1;
+    private FileMeshObject Model2;
+    private FileMeshObject Model3;
     private AObject aObject = new AObject();
     
     
@@ -168,55 +171,34 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
 
 
             // Select which model to draw:
-            // Constants:
-
-            //TODO: Add to model object
-            float modelScale = 25.0f;
-            float modelTranslate = 25.0f;
-            int textureIndex = marker.getMarkerId();
-
-            boolean indexed=false;
-            Buffer vertices = null;
-            int numVertices = 0;
-            Buffer normals = null;
-            Buffer texCoords = null;
-            Buffer indices = null;
-            int numIndices = 0;
-
             switch (marker.getMarkerId())
             {
                 case 0:
-                    indexed = Object.indexed;
-                    vertices = Object.getVertices();
-                    normals = Object.getNormals();
-                    indices = Object.getIndices();
-                    texCoords = Object.getTexCoords();
-                    numVertices = Object.getNumObjectVertex();
-                    numIndices = Object.getNumObjectIndex();
+                    Object=Model1;
                     break;
                 case 1:
-                    indexed = Object.indexed;
-                    vertices = Object.getVertices();
-                    normals = Object.getNormals();
-                    indices = Object.getIndices();
-                    texCoords = Object.getTexCoords();
-                    numVertices = Object.getNumObjectVertex();
-                    numIndices = Object.getNumObjectIndex();
+                    Object=Model2;
                     break;
                 case 2:
-                    indexed = Object.indexed;
-                    vertices = Object.getVertices();
-                    normals = Object.getNormals();
-                    indices = Object.getIndices();
-                    texCoords = Object.getTexCoords();
-                    numVertices = Object.getNumObjectVertex();
-                    numIndices = Object.getNumObjectIndex();
+                    Object=Model3;
                     break;
             }
 
-            Texture thisTexture = mTextures.get(textureIndex);
+            // Constants:
+            float modelScale = Object.scale;;
+            float modelTranslate = Object.translate;
+            int textureIndex = Object.texture;
+            boolean indexed = Object.indexed;
+            Buffer vertices = Object.getVertices();
+            int numVertices = Object.getNumObjectVertex();;
+            Buffer normals = Object.getNormals();
+            Buffer texCoords = Object.getTexCoords();
+            Buffer indices = Object.getIndices();
+            int numIndices = Object.getNumObjectIndex();
+
+            Texture mTexture = mTextures.get(textureIndex);
             float[] modelViewProjection = new float[16];
-            Matrix.translateM(modelViewMatrix, 0, -modelTranslate, -modelTranslate, 0.f);
+            Matrix.translateM(modelViewMatrix, 0, -modelTranslate, -modelTranslate, 25.f);
             Matrix.scaleM(modelViewMatrix, 0, modelScale, modelScale, modelScale);
             Matrix.multiplyMM(modelViewProjection, 0, vuforiaAppSession.getProjectionMatrix().getData(), 0, modelViewMatrix, 0);
 
@@ -228,7 +210,7 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
             GLES20.glEnableVertexAttribArray(textureCoordHandle);
 
             GLES20.glActiveTexture(GLES20.GL_TEXTURE0);
-            GLES20.glBindTexture(GLES20.GL_TEXTURE_2D, thisTexture.mTextureID[0]);
+            GLES20.glBindTexture(GLES20.GL_TEXTURE_2D, mTexture.mTextureID[0]);
             GLES20.glUniform1i(texSampler2DHandle, 0);
             GLES20.glUniformMatrix4fv(mvpMatrixHandle, 1, false, modelViewProjection, 0);
             if(indexed) GLES20.glDrawElements(GLES20.GL_TRIANGLES, numIndices, GLES20.GL_UNSIGNED_SHORT, indices);
@@ -251,7 +233,15 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
     public void setModelParam(Vector<Texture> textures,AssetManager assets)
     {
         mTextures = textures;
-        Object = new FileMeshObject("FrameMarkers/EggHolder/Vertices.txt",
-                "FrameMarkers/EggHolder/TexCoords.txt","FrameMarkers/EggHolder/Normals.txt",assets);
+        Model1 = new FileMeshObject("FrameMarkers/EggHolder/Vertices.txt",
+                "FrameMarkers/EggHolder/TexCoords.txt","FrameMarkers/EggHolder/Normals.txt",assets,
+                40.0f,0.0f,2);
+        Model2 = new FileMeshObject("FrameMarkers/LetterA/Vertices.txt",
+                "FrameMarkers/LetterA/TexCoords.txt", "FrameMarkers/LetterA/Normals.txt",
+                "FrameMarkers/LetterA/Indices.txt",assets,
+                25.0f,25.0f,4);
+        Model3 = new FileMeshObject("FrameMarkers/Banana/Vertices.txt",
+                "FrameMarkers/Banana/TexCoords.txt","FrameMarkers/Banana/Normals.txt",assets,
+                60.0f,0.0f,3);
     }
 }

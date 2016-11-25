@@ -142,8 +142,10 @@ public class FrameMarkers extends Activity implements VuforiaApplicationControl
     private void loadTextures()
     {
         mTextures.add(Texture.loadTextureFromApk("FrameMarkers/BiancoStatuario_256.png", getAssets()));
-        mTextures.add(Texture.loadTextureFromApk("PlasterDirty0073_S.jpg", getAssets()));
-        mTextures.add(Texture.loadTextureFromApk("PlasterDirty0104_1_S.jpg", getAssets()));
+        mTextures.add(Texture.loadTextureFromApk("FrameMarkers/PlasterDirty0073_S.jpg", getAssets()));
+        mTextures.add(Texture.loadTextureFromApk("FrameMarkers/PlasterDirty0104_1_S.jpg", getAssets()));
+        mTextures.add(Texture.loadTextureFromApk("FrameMarkers/bananas_PNG5347.png", getAssets()));
+        mTextures.add(Texture.loadTextureFromApk("FrameMarkers/letter_A.png", getAssets()));
     }
     
     

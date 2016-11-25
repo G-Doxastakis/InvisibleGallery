@@ -29,8 +29,11 @@ public class FileMeshObject extends MeshObject {
     Buffer mNormBuff;
     Buffer mIndBuff;
 
+    public float scale;
+    public float translate;
+    public int texture;
 
-    public FileMeshObject(String VertFile,String TexCoordFile,String NormFile, String IndFile,AssetManager assets)
+    public FileMeshObject(String VertFile,String TexCoordFile,String NormFile, String IndFile,AssetManager assets,float scl,float trl,int txt)
     {
         indexed=true;
         double Vertices[]=loadDoubleCSV(VertFile,assets);
@@ -43,8 +46,11 @@ public class FileMeshObject extends MeshObject {
         mIndBuff = fillBuffer(Indices);
         NumVertex = Vertices.length / 3;
         NumIndex = Indices.length;
+        scale=scl;
+        translate=trl;
+        texture=txt;
     }
-    public FileMeshObject(String VertFile,String TexCoordFile,String NormFile,AssetManager assets)
+    public FileMeshObject(String VertFile,String TexCoordFile,String NormFile,AssetManager assets,float scl,float trl,int txt)
     {
         indexed=false;
         double Vertices[]=loadDoubleCSV(VertFile,assets);
@@ -54,6 +60,9 @@ public class FileMeshObject extends MeshObject {
         mTexCoordBuff = fillBuffer(Texcoords);
         mNormBuff = fillBuffer(Normals);
         NumVertex = Vertices.length / 3;
+        scale=scl;
+        translate=trl;
+        texture=txt;
     }
 
 

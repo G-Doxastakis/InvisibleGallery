@@ -69,11 +69,13 @@ public class FileMeshObject extends MeshObject {
 
     private double[] loadDoubleCSV(String fileName, AssetManager assets){
         InputStream inputStream = null;
+
         ArrayList<Double> data = new ArrayList<Double>();
         try
         {
             inputStream = assets.open(fileName);
-            Scanner scanner = new Scanner(inputStream);
+            BufferedInputStream stream=new BufferedInputStream(inputStream);
+            Scanner scanner = new Scanner(stream);
             while(scanner.hasNextDouble()){
                 data.add(scanner.nextDouble());
             }
@@ -91,7 +93,8 @@ public class FileMeshObject extends MeshObject {
         try
         {
             inputStream = assets.open(fileName);
-            Scanner scanner = new Scanner(inputStream);
+            BufferedInputStream stream=new BufferedInputStream(inputStream);
+            Scanner scanner = new Scanner(stream);
             while(scanner.hasNextInt()){
                 data.add(scanner.nextInt());
             }

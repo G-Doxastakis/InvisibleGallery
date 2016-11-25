@@ -5,29 +5,29 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="1436789655818801"
+    timestamp="1438527865165795"
     token="-2269929069614609018"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="176" />
+        duration="627" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="11" />
+        duration="95" />
     <task
         name="verifier"
-        duration="5" />
+        duration="3" />
 
     <artifact
         location="C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\build\outputs\apk\InvisibleGallery-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="1436789655818801"
+        timestamp="1438527865165795"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\TTSS\Documents\Repositories\InvisibleGallery\InvisibleGallery\app\build\outputs\apk\InvisibleGallery-debug.apk"

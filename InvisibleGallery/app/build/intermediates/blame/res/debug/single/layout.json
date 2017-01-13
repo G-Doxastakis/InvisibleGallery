@@ -28,10 +28,6 @@
         "source": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\card.xml"
     },
     {
-        "merged": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group.xml",
-        "source": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
-    },
-    {
         "merged": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_textreco.xml",
         "source": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\camera_overlay_textreco.xml"
     },
@@ -42,6 +38,10 @@
     {
         "merged": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_screen.xml",
         "source": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\about_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group.xml",
+        "source": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
     },
     {
         "merged": "C:\\Users\\TTSS\\Documents\\Repositories\\InvisibleGallery\\InvisibleGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_layer.xml",

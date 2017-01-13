@@ -217,7 +217,6 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
             else GLES20.glDrawArrays(GLES20.GL_TRIANGLES,0,numVertices);
 
 
-
             GLES20.glDisableVertexAttribArray(vertexHandle);
             GLES20.glDisableVertexAttribArray(textureCoordHandle);
             VuforiaUtils.checkGLError("FrameMarkers render frame");
@@ -235,13 +234,12 @@ public class FrameMarkerRenderer implements GLSurfaceView.Renderer
         mTextures = textures;
         Model1 = new FileMeshObject("FrameMarkers/EggHolder/Vertices.txt",
                 "FrameMarkers/EggHolder/TexCoords.txt","FrameMarkers/EggHolder/Normals.txt",assets,
-                40.0f,0.0f,2);
-        Model2 = new FileMeshObject("FrameMarkers/LetterA/Vertices.txt",
-                "FrameMarkers/LetterA/TexCoords.txt", "FrameMarkers/LetterA/Normals.txt",
-                "FrameMarkers/LetterA/Indices.txt",assets,
-                25.0f,25.0f,4);
+                30.0f,0.0f,2);
+        Model2 = new FileMeshObject("FrameMarkers/Statue/Vertices.txt",
+                "FrameMarkers/Statue/TexCoords.txt", "FrameMarkers/Statue/Normals.txt",assets,
+                100.0f,0.0f,1);
         Model3 = new FileMeshObject("FrameMarkers/Banana/Vertices.txt",
                 "FrameMarkers/Banana/TexCoords.txt","FrameMarkers/Banana/Normals.txt",assets,
-                60.0f,0.0f,3);
+                80.0f,0.0f,3);
     }
 }
